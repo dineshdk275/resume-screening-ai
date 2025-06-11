@@ -2,8 +2,6 @@
 
 This is a Flask-based web application that allows recruiters or job seekers to upload resumes and compare them with a job description. It uses Natural Language Processing (NLP) techniques to calculate a **match score**, helping streamline the resume screening process.
 
-![resume screening demo](https://your-demo-image-or-gif-link.com) <!-- Optional: Add a screenshot or GIF here -->
-
 ---
 
 ## 🚀 Features
