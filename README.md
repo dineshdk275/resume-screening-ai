@@ -30,11 +30,11 @@ This is a Flask-based web application that allows recruiters or job seekers to u
 
 ### 🖥 Home Page
 
-![screenshot](https://your-homepage-screenshot-url.com)
+![screenshot](https://i.imgur.com/UrHtHPX.png)
 
 ### 📊 Match Score Output
 
-![result](https://your-result-page-screenshot-url.com)
+![result](https://i.imgur.com/5RrcamT.png)
 
 ---
 
